@@ -1,3 +1,5 @@
+<div style="background-color: #0d1117; color: #c9d1d9; padding: 40px; border-radius: 10px;">
+
 # The Abbott Unified Hypothesis (AUH)
 
 **Deterministic Hardware Architecture & Empirical Audit Ledger**
@@ -17,3 +19,5 @@ Click the links below to read or download the master specifications, stability a
 
 ---
 *“A 'true vacuum' (level 5) would effectively be non-existence.”*
+
+</div>
