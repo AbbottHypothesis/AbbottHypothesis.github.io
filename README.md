@@ -1,4 +1,4 @@
-<div style="background-color: #0d1117; color: #c9d1d9; padding: 40px; border-radius: 10px;">
+<div style="background-color: #0d1117; color: #c9d1d9; position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; padding: 50px; overflow-y: auto; box-sizing: border-box; margin: 0; z-index: 99999;">
 
 # The Abbott Unified Hypothesis (AUH)
 
