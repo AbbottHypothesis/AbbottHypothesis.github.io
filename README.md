@@ -11,8 +11,8 @@ Space is the continuous mechanical substrate. The Rate of Time is the Medium. Wh
 Click the links below to read or download the master specifications, stability audits, and testing protocols:
 
 * [**AUH v24 Master Specification**](AUH_V24_Master_Specification.pdf)
-* [**The Abbott Master Stability Index**](The Abbott Master Stability Index.pdf)
-* [**The Architectural Crisis in Modern Physics: AUH vs. The Standard Model**](The Architectural Crisis in Modern Physics AUH vs. The Standard Model.pdf)
+* [**The Abbott Master Stability Index**](<The Abbott Master Stability Index.pdf>)
+* [**The Architectural Crisis in Modern Physics: AUH vs. The Standard Model**](<The Architectural Crisis in Modern Physics AUH vs. The Standard Model.pdf>)
 * [**AUH Empirical Testing Protocol (v24 Falsification Ledger)**](TESTING_PROTOCOL.pdf)
 
 ---
