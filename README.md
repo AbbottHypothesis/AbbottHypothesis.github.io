@@ -4,7 +4,7 @@
 
 Welcome to the official documentation center for the Abbott Unified Hypothesis. This framework replaces the probabilistic mathematics and "quantum magic" of the Standard Model with a deterministic mechanical substrate audit. 
 
-Space is the continuous mechanical substrate. The Rate of Time is the Medium. Where time is held at a stall, the medium is thickest. Mass acts as a physical clamp on this substrate, creating tension against the absolute 171.09 MeV/fm3 Substrate Baseline.
+Where time is held at a stall, the medium is thickest. Space is the continuous mechanical substrate, and the Rate of Time is the Medium. Mass acts as a physical clamp on this substrate, creating tension against the absolute 171.09 MeV/fm3 Substrate Baseline; by clamping the substrate, it directly clamps the medium itself, locking the local rate of time into a stall.
 
 ### Official v24 Documentation
 
