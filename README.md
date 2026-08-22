@@ -17,6 +17,7 @@ Click the links below to read or download the master specifications, stability a
   <li><a href="Reality-Of-Atomic-Volume.pdf" style="color: #0033a0; font-weight: 600; text-decoration: underline;">The Reality of Atomic Volume: AUH vs. The Standard Model</a></li>
   <li><a href="The-Illusion-Of-Inertia-AUH.pdf" style="color: #0033a0; font-weight: 600; text-decoration: underline;">The Illusion of Inertia: Resolving Momentum and Substrate Snap-Back</a></li>
   <li><a href="TESTING_PROTOCOL.pdf" style="color: #0033a0; font-weight: 600; text-decoration: underline;">AUH Empirical Testing Protocol (v24 Falsification Ledger)</a></li>
+  <li><a href="AUH_Solenoid_Audit_Maxwell_Proof.pdf" style="color: #0033a0; font-weight: 600; text-decoration: underline;">The Solenoid Audit & Maxwell's Displacement Proof</a></li>
 </ul>
 
 ---
