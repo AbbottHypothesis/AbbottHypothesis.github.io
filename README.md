@@ -1,4 +1,5 @@
 # The Abbott Unified Hypothesis (AUH)
+### Official Contact: gordon@abbotthypothesis.com
 
 ### Deterministic Hardware Architecture & Empirical Audit Ledger
 
