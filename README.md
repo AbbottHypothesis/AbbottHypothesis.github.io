@@ -7,7 +7,7 @@ Welcome to the official documentation center for the Abbott Unified Hypothesis. 
 
 Where time is held at a stall, the medium is thickest. Space is the continuous mechanical substrate, and the rate of time is the pressure of the medium. Mass acts as a physical clamp on this substrate through sheer volumetric displacement, creating tension against the absolute 171.09 MeV/fm³ Substrate Baseline. By anchoring this tension within the continuous substrate, mass directly restricts the medium (time), locking the local rate of time into a stall.
 
-## Official v24 Documentation
+## Official v25 Documentation
 
 Click the links below to read or download the master specifications, stability audits, and testing protocols:
 
