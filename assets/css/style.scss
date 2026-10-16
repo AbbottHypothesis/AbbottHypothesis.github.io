@@ -3,22 +3,25 @@ SCSS
 ---
 @import "{{ site.theme }}";
 
-:root {
-  --text-color: #000000 !important;
-  --grey-color: #111111 !important;
-  --grey-color-dark: #000000 !important;
-}
-
-body, p, li, ul, span, div, article, section {
+/* Target the main content container and paragraphs directly */
+.main-content p, 
+.wrapper p, 
+article p, 
+div p, 
+p {
   color: #000000 !important;
+  font-weight: 600 !important; /* Much bolder main text */
+  -webkit-font-smoothing: antialiased;
 }
 
-p, li {
+/* Keep list items bold and dark as well */
+li {
   color: #000000 !important;
-  font-weight: 500 !important; /* Increases boldness */
+  font-weight: 600 !important;
 }
 
-strong, h1, h2, h3, h4, h5, h6 {
+/* Ensure headers stay crisp and normal */
+h1, h2, h3, h4, h5, h6 {
   color: #000000 !important;
   font-weight: 700 !important;
 }
