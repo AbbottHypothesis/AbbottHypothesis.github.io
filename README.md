@@ -17,14 +17,14 @@ Physical reality is a mechanical engine.
 
 Where time is held at a stall, the medium is thickest. Space is the continuous mechanical substrate, and the rate of time is the pressure of the medium. Mass acts as a physical clamp on this substrate through sheer volumetric displacement, creating tension against the absolute 171.09 MeV/fm³ Substrate Baseline. By anchoring this tension within the continuous substrate, mass directly restricts the medium (time), locking the local rate of time into a stall.
 
-## Official v25 Documentation
+## Official v26 Documentation
 
 Click the links below to read or download the master specifications, stability audits, and testing protocols:
 
 <ul>
-  <li>AUH v25 Master Specification: 
-      <a href="AUH_V25_Master_Specification.pdf" target="_blank" style="color: #0033a0; font-weight: 600; text-decoration: underline;">Read Online</a> &nbsp;|&nbsp; 
-      <a href="AUH_V25_Master_Specification.pdf" download style="color: #0033a0; font-weight: 600; text-decoration: underline;">Download PDF</a>
+  <li>AUH v26 Master Specification: 
+      <a href="AUH_V26_Master_Specification.pdf" target="_blank" style="color: #0033a0; font-weight: 600; text-decoration: underline;">Read Online</a> &nbsp;|&nbsp; 
+      <a href="AUH_V26_Master_Specification.pdf" download style="color: #0033a0; font-weight: 600; text-decoration: underline;">Download PDF</a>
   </li>
   
   <li>The Abbott Master Stability Index: 
@@ -47,7 +47,7 @@ Click the links below to read or download the master specifications, stability a
       <a href="The-Illusion-Of-Inertia-AUH.pdf" download style="color: #0033a0; font-weight: 600; text-decoration: underline;">Download PDF</a>
   </li>
   
-  <li>AUH Empirical Testing Protocol (v25 Falsification Ledger): 
+  <li>AUH Empirical Testing Protocol (v26 Falsification Ledger): 
       <a href="TESTING_PROTOCOL.pdf" target="_blank" style="color: #0033a0; font-weight: 600; text-decoration: underline;">Read Online</a> &nbsp;|&nbsp; 
       <a href="TESTING_PROTOCOL.pdf" download style="color: #0033a0; font-weight: 600; text-decoration: underline;">Download PDF</a>
   </li>
@@ -57,6 +57,3 @@ Click the links below to read or download the master specifications, stability a
       <a href="AUH_Solenoid_Audit_Maxwell_Proof.pdf" download style="color: #0033a0; font-weight: 600; text-decoration: underline;">Download PDF</a>
   </li>
 </ul>
-
----
-*A "true vacuum" (level 5) would effectively be non-existence.*
