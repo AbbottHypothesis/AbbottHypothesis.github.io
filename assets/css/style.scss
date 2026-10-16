@@ -3,15 +3,17 @@ SCSS
 ---
 @import "{{ site.theme }}";
 
-body, p, li, ul, span, div, article, section {
-  color: #000000 !important;
+/* Force pure black color and heavier weight across all text elements */
+body, p, li, ul, span, div, article, section, .page-content, .wrapper {
+  color: #111111 !important;
+}
+
+p {
+  color: #111111 !important;
+  font-weight: 400 !important;
 }
 
 strong, h1, h2, h3, h4, h5, h6 {
   color: #000000 !important;
   font-weight: 700 !important;
-}
-
-.main-content p, .main-content li {
-  color: #000000 !important;
 }
