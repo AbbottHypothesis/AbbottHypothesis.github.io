@@ -1,0 +1,10 @@
+CSS
+/* Direct CSS Override for GitHub Pages */
+body, .page-content, .wrapper, article, section {
+  color: #000000 !important;
+}
+
+p, li, ul, span {
+  color: #000000 !important;
+  font-weight: 600 !important;
+}
