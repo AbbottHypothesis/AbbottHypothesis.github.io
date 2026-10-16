@@ -3,25 +3,11 @@ SCSS
 ---
 @import "{{ site.theme }}";
 
-/* Target the main content container and paragraphs directly */
-.main-content p, 
-.wrapper p, 
-article p, 
-div p, 
-p {
+body {
   color: #000000 !important;
-  font-weight: 600 !important; /* Much bolder main text */
-  -webkit-font-smoothing: antialiased;
 }
 
-/* Keep list items bold and dark as well */
-li {
+p, li, ul, span, div {
   color: #000000 !important;
   font-weight: 600 !important;
-}
-
-/* Ensure headers stay crisp and normal */
-h1, h2, h3, h4, h5, h6 {
-  color: #000000 !important;
-  font-weight: 700 !important;
 }
