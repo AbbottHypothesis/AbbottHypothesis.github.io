@@ -3,11 +3,10 @@ SCSS
 ---
 @import "{{ site.theme }}";
 
-body {
-  color: #111111;
-}
-
-p, li {
-  color: #111111;
-  font-weight: 500;
+.page-content p, 
+.wrapper p, 
+.page-content li, 
+.wrapper li {
+  color: #000000 !important;
+  font-weight: 500 !important;
 }
