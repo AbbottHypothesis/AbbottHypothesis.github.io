@@ -3,12 +3,15 @@ SCSS
 ---
 @import "{{ site.theme }}";
 
-body, p, li, ul, span {
+body, p, li, ul, span, div, article, section {
   color: #000000 !important;
-  font-weight: 450 !important;
 }
 
-strong, h1, h2, h3 {
+strong, h1, h2, h3, h4, h5, h6 {
   color: #000000 !important;
   font-weight: 700 !important;
+}
+
+.main-content p, .main-content li {
+  color: #000000 !important;
 }
