@@ -1,0 +1,14 @@
+SCSS
+---
+---
+@import "{{ site.theme }}";
+
+body, p, li, ul, span {
+  color: #000000 !important;
+  font-weight: 450 !important;
+}
+
+strong, h1, h2, h3 {
+  color: #000000 !important;
+  font-weight: 700 !important;
+}
