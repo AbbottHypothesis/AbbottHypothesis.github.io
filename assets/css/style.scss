@@ -1,0 +1,13 @@
+SCSS
+---
+---
+@import "{{ site.theme }}";
+
+body {
+  color: #111111;
+}
+
+p, li {
+  color: #111111;
+  font-weight: 500;
+}
