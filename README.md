@@ -21,40 +21,19 @@
 <p style="color: #262626 !important; font-weight: 450 !important;">Click the links below to read or download the master specifications, stability audits, and testing protocols:</p>
 
 <ul>
-  <li style="color: #262626 !important; font-weight: 450 !important;">AUH v26 Master Specification: 
-      <a href="AUH_V26_Master_Specification.pdf" target="_blank" style="color: #0033a0; font-weight: 600; text-decoration: underline;">Read Online</a> &nbsp;|&nbsp; 
-      <a href="AUH_V26_Master_Specification.pdf" download style="color: #0033a0; font-weight: 600; text-decoration: underline;">Download PDF</a>
-  </li>
-  
-  <li style="color: #262626 !important; font-weight: 450 !important;">The Abbott Master Stability Index: 
-      <a href="The%20Abbott%20Master%20Stability%20Index.pdf" target="_blank" style="color: #0033a0; font-weight: 600; text-decoration: underline;">Read Online</a> &nbsp;|&nbsp; 
-      <a href="The%20Abbott%20Master%20Stability%20Index.pdf" download style="color: #0033a0; font-weight: 600; text-decoration: underline;">Download PDF</a>
-  </li>
-  
-  <li style="color: #262626 !important; font-weight: 450 !important;">The Architectural Crisis in Modern Physics: AUH vs. The Standard Model: 
-      <a href="The%20Architectural%20Crisis%20in%20Modern%20Physics%20AUH%20vs.%20The%20Standard%20Model.pdf" target="_blank" style="color: #0033a0; font-weight: 600; text-decoration: underline;">Read Online</a> &nbsp;|&nbsp; 
-      <a href="The%20Architectural%20Crisis%20in%20Modern%20Physics%20AUH%20vs.%20The%20Standard%20Model.pdf" download style="color: #0033a0; font-weight: 600; text-decoration: underline;">Download PDF</a>
-  </li>
-  
-  <li style="color: #262626 !important; font-weight: 450 !important;">The Reality of Atomic Volume: AUH vs. The Standard Model: 
-      <a href="Reality-Of-Atomic-Volume.pdf" target="_blank" style="color: #0033a0; font-weight: 600; text-decoration: underline;">Read Online</a> &nbsp;|&nbsp; 
-      <a href="Reality-Of-Atomic-Volume.pdf" download style="color: #0033a0; font-weight: 600; text-decoration: underline;">Download PDF</a>
-  </li>
-  
-  <li style="color: #262626 !important; font-weight: 450 !important;">The Illusion of Inertia: Resolving Momentum and Substrate Snap-Back: 
-      <a href="The-Illusion-Of-Inertia-AUH.pdf" target="_blank" style="color: #0033a0; font-weight: 600; text-decoration: underline;">Read Online</a> &nbsp;|&nbsp; 
-      <a href="The-Illusion-Of-Inertia-AUH.pdf" download style="color: #0033a0; font-weight: 600; text-decoration: underline;">Download PDF</a>
-  </li>
-  
-  <li style="color: #262626 !important; font-weight: 450 !important;">AUH Empirical Testing Protocol (v26 Falsification Ledger): 
-      <a href="TESTING_PROTOCOL.pdf" target="_blank" style="color: #0033a0; font-weight: 600; text-decoration: underline;">Read Online</a> &nbsp;|&nbsp; 
-      <a href="TESTING_PROTOCOL.pdf" download style="color: #0033a0; font-weight: 600; text-decoration: underline;">Download PDF</a>
-  </li>
-  
-  <li style="color: #262626 !important; font-weight: 450 !important;">The Solenoid Audit & Maxwell's Displacement Proof: 
-      <a href="AUH_Solenoid_Audit_Maxwell_Proof.pdf" target="_blank" style="color: #0033a0; font-weight: 600; text-decoration: underline;">Read Online</a> &nbsp;|&nbsp; 
-      <a href="AUH_Solenoid_Audit_Maxwell_Proof.pdf" download style="color: #0033a0; font-weight: 600; text-decoration: underline;">Download PDF</a>
-  </li>
+  <li style="color: #262626 !important; font-weight: 450 !important;">AUH v26 Master Specification: <a href="AUH_V26_Master_Specification.pdf" target="_blank" style="color: #0033a0; font-weight: 600; text-decoration: underline;">Read Online</a> &nbsp;|&nbsp; <a href="AUH_V26_Master_Specification.pdf" download style="color: #0033a0; font-weight: 600; text-decoration: underline;">Download PDF</a></li>
+  
+  <li style="color: #262626 !important; font-weight: 450 !important;">The Abbott Master Stability Index: <a href="The%20Abbott%20Master%20Stability%20Index.pdf" target="_blank" style="color: #0033a0; font-weight: 600; text-decoration: underline;">Read Online</a> &nbsp;|&nbsp; <a href="The%20Abbott%20Master%20Stability%20Index.pdf" download style="color: #0033a0; font-weight: 600; text-decoration: underline;">Download PDF</a></li>
+  
+  <li style="color: #262626 !important; font-weight: 450 !important;">The Architectural Crisis in Modern Physics: AUH vs. The Standard Model: <a href="The%20Architectural%20Crisis%20in%20Modern%20Physics%20AUH%20vs.%20The%20Standard%20Model.pdf" target="_blank" style="color: #0033a0; font-weight: 600; text-decoration: underline;">Read Online</a> &nbsp;|&nbsp; <a href="The%20Architectural%20Crisis%20in%20Modern%20Physics%20AUH%20vs.%20The%20Standard%20Model.pdf" download style="color: #0033a0; font-weight: 600; text-decoration: underline;">Download PDF</a></li>
+  
+  <li style="color: #262626 !important; font-weight: 450 !important;">The Reality of Atomic Volume: AUH vs. The Standard Model: <a href="Reality-Of-Atomic-Volume.pdf" target="_blank" style="color: #0033a0; font-weight: 600; text-decoration: underline;">Read Online</a> &nbsp;|&nbsp; <a href="Reality-Of-Atomic-Volume.pdf" download style="color: #0033a0; font-weight: 600; text-decoration: underline;">Download PDF</a></li>
+  
+  <li style="color: #262626 !important; font-weight: 450 !important;">The Illusion of Inertia: Resolving Momentum and Substrate Snap-Back: <a href="The-Illusion-Of-Inertia-AUH.pdf" target="_blank" style="color: #0033a0; font-weight: 600; text-decoration: underline;">Read Online</a> &nbsp;|&nbsp; <a href="The-Illusion-Of-Inertia-AUH.pdf" download style="color: #0033a0; font-weight: 600; text-decoration: underline;">Download PDF</a></li>
+  
+  <li style="color: #262626 !important; font-weight: 450 !important;">AUH Empirical Testing Protocol (v26 Falsification Ledger): <a href="TESTING_PROTOCOL.pdf" target="_blank" style="color: #0033a0; font-weight: 600; text-decoration: underline;">Read Online</a> &nbsp;|&nbsp; <a href="TESTING_PROTOCOL.pdf" download style="color: #0033a0; font-weight: 600; text-decoration: underline;">Download PDF</a></li>
+  
+  <li style="color: #262626 !important; font-weight: 450 !important;">The Solenoid Audit & Maxwell's Displacement Proof: <a href="AUH_Solenoid_Audit_Maxwell_Proof.pdf" target="_blank" style="color: #0033a0; font-weight: 600; text-decoration: underline;">Read Online</a> &nbsp;|&nbsp; <a href="AUH_Solenoid_Audit_Maxwell_Proof.pdf" download style="color: #0033a0; font-weight: 600; text-decoration: underline;">Download PDF</a></li>
 </ul>
 
-<h3 style="color: #555555 !important; font-weight: 500 !important;">Official Contact: gordon@abbotthypothesis.com</h3>
+<h4 style="color: #555555 !important; font-weight: 500 !important; margin-top: 25px;">Official Contact: gordon@abbotthypothesis.com</h4>
