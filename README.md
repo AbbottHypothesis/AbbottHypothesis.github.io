@@ -34,6 +34,5 @@
   <li style="color: #262626 !important; font-weight: 450 !important;">AUH Empirical Testing Protocol (v26 Falsification Ledger): <a href="TESTING_PROTOCOL.pdf" target="_blank" style="color: #0033a0; font-weight: 600; text-decoration: underline;">Read Online</a> &nbsp;|&nbsp; <a href="TESTING_PROTOCOL.pdf" download style="color: #0033a0; font-weight: 600; text-decoration: underline;">Download PDF</a></li>
   
   <li style="color: #262626 !important; font-weight: 450 !important;">The Solenoid Audit & Maxwell's Displacement Proof: <a href="AUH_Solenoid_Audit_Maxwell_Proof.pdf" target="_blank" style="color: #0033a0; font-weight: 600; text-decoration: underline;">Read Online</a> &nbsp;|&nbsp; <a href="AUH_Solenoid_Audit_Maxwell_Proof.pdf" download style="color: #0033a0; font-weight: 600; text-decoration: underline;">Download PDF</a></li>
-</ul>
 
-<h4 style="color: #555555 !important; font-weight: 500 !important; margin-top: 25px;">Official Contact: gordon@abbotthypothesis.com</h4>
+  <li style="color: #262626 !important; font-weight: 450 !important;">The Unified Perimeter Surface Pressure (P_surf) Master Ledger: <a href="Perimeter%20Surface%20Pressure%20(P_surf)%20Master%20Ledger.pdf" target="_blank" style="color: #0033a0; font-weight: 600; text-decoration: underline;">Read Online</a> &nbsp;|&nbsp; <a href="Perimeter%20Surface%20Pressure%20(P_surf)%20Master%20Ledger.pdf" download style="color: #0033a0; font-weight: 600; text-decoration: underline;">Download PDF</a></li>
